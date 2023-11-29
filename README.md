@@ -1,9 +1,9 @@
 <p align="center">
-    <img src="https://cdn.transfem.social/files/thumbnail-2fd35c29-6b3c-44b7-87a9-045fe8dde5e7.webp" width="80" />
-    <h2 align="center">Sharkey Theme Repository</h2>
+    <img src="assets/key.png" width="80" />
+    <h2 align="center">PrettyKey</h2>
 </p>
 
-<p align="center">A Repository for Sharkey, Misskey and FireFish Themes aswell as Sharkey Compatible CSS Themes</p>
+<p align="center">A Repository for theming all things Misskey</p>
 
 ## Installation of Themes
 
@@ -34,6 +34,11 @@ All themes submitted to the repository should follow this structure
   ↪ themename.css (if there is multiple files include all of the needed theme files)
   ↪ LICENSE (If different from repository)
   ↪ screenshot.png (if theres multiple varients include screenshots for all)
+- decorations
+ ↪ decorations pack name
+  ↪ README.md
+  ↪ decorations-varient-name.png (per varient in pack)
+  ↪ LICENSE (If different from repository)
 - themes
  ↪ theme name
   ↪ README.md
